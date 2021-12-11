@@ -1,4 +1,4 @@
-pipeline {
+/* pipeline {
     agent any
 
     tools {
@@ -48,4 +48,4 @@ pipeline {
      }
     
     
-}
+} */
